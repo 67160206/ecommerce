@@ -1,6 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-body{overflow-x:hidden}
-.bleed{margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw)}
